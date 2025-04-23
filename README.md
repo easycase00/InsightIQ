@@ -83,6 +83,21 @@ Sophisticated prompt engineering techniques were implemented:
 
 **Solution**: Implemented path-aware StyleLib cleanup to ensure consistent visualization styling across different environments, with intelligent fallback mechanisms.
 
+## Screenshots
+
+### 🔍 User Query and Analysis Plan
+![User Query](https://github.com/easycase00/InsightIQ/blob/main/SS/Screenshot%202025-04-22%20at%207.58.28%E2%80%AFPM.png)
+*User uploads a CSV, enters a natural language query, and generates an LLM-driven analysis plan.*
+
+### 📊 Auto-Generated Visualizations and Insights
+![Visual Output](https://github.com/easycase00/InsightIQ/blob/main/SS/Screenshot%202025-04-22%20at%207.57.15%E2%80%AFPM.png)
+*InsightIQ renders plots and written insights based on the user’s query using Seaborn and Matplotlib.*
+
+### 🧼 Cleaned Data and Summary Statistics
+![Data Summary](https://github.com/easycase00/InsightIQ/blob/main/SS/Screenshot%202025-04-22%20at%207.59.13%E2%80%AFPM.png)
+*Displays cleaned data, inferred column types, and summary statistics automatically.*
+
+
 ## Getting Started
 
 ### Prerequisites
