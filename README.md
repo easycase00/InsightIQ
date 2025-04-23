@@ -1,5 +1,6 @@
 # InsightIQ: AI-Powered Data Analysis Platform
 
+## Hosted
 **🔗 [Live Demo](https://insightiq000.streamlit.app/)** 
 
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Automated-blue)
