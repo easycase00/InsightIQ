@@ -516,7 +516,6 @@ from utils import extract_sample
 
 # --- Set Theme and Custom CSS ---
 st.set_page_config(
-    page_title="Smart Data Analyst",
     layout="wide", 
     initial_sidebar_state="expanded"
 )
@@ -817,7 +816,7 @@ if uploaded_file is not None and st.session_state.df_original is None:
 
 # Main Application Flow
 if st.session_state.df_original is not None:
-    st.title("Interactive Data Analysis")
+    st.title("InsightIQ")
     
     # Data Preview in a card-like container
     st.markdown('<div class="card">', unsafe_allow_html=True)
